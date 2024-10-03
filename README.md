@@ -1,0 +1,2 @@
+# 30-Day-ML-Challenge---Day-03-Salary-Hike-Prediction-using-Decision-Tree-Classifier-
+This project explores the use of Decision Tree Regression to predict salary hikes based on various factors such as years of experience, education level, and job role. By building a decision tree, we can visualize how different features contribute to salary growth and make accurate predictions on salary increments.
